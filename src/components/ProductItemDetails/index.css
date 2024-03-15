@@ -1,0 +1,75 @@
+/* Write your CSS here */
+.main-product-con {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 90%;
+  padding: 30px;
+}
+
+.main-img {
+  width: 280px;
+  height: 400px;
+  border-radius: 20px;
+}
+.img-con {
+  width: 30%;
+}
+.data-con {
+  width: 60%;
+}
+
+.product-detail {
+  display: flex;
+  align-items: center;
+}
+
+.review {
+  margin-left: 10px;
+  color: #475569;
+  font-family: Roboto;
+}
+
+.des {
+  color: #616e7c;
+  font-family: Roboto;
+}
+
+.avl-brand-con {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
+.val {
+  color: #616e7c;
+  margin-left: 10px;
+}
+
+.count {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.add-btn {
+  background-color: #3b82f6;
+  padding: 10px;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.similar-heading {
+  font-family: Roboto;
+  color: #475569;
+  font-size: px;
+}
+
+.similar-ul {
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

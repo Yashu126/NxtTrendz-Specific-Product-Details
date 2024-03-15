@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.similar-li {
+  list-style-type: none;
+  width: 30%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.similar-img {
+  background-size: cover;
+  width: 90%;
+}
+
+.sm-heading {
+  font-family: Roboto;
+  color: #12022f;
+  font-size: 24px;
+}
+
+by-brand {
+  font-family: Roboto;
+  color: #475569;
+}
+
+.price-rating-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
